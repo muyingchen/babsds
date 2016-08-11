@@ -13,4 +13,4 @@ https://www.dropbox.com/s/jb3q97i27ujtxsg/babs.zip?dl=0
 https://www.dropbox.com/s/wqnyvsjp5ggweyf/babs_new.zip?dl=0
 
 ## Project2_Final (Google Doc)
-https://docs.google.com/document/d/1XZ4T0O5Rb_B7nu2bf-1BBTPkGvWYuaWWFz_j1wwg6dw/edit?ts=57a76b4c
+https://docs.google.com/document/d/1XZ4T0O5Rb_B7nu2bf-1BBTPkGvWYuaWWFz_j1wwg6dw/edit?usp=sharing
