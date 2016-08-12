@@ -1,12 +1,13 @@
 
 # Project 2
+https://github.com/MIDS-INFO-W18/babs
 ***
     By: Muying Chen, Shangjun(Jenny) Jiang, Bryan Chung
     MIDS-INFO-W18
     SUMMER SESSION 2016
     Professor Gunnar Kleemann
 ---
-## Bay Area Bikeshare (Raw Data)
+## Bay Area Bike Share (Raw Data)
 https://www.dropbox.com/s/jb3q97i27ujtxsg/babs.zip?dl=0
 
 ## Finalized Datasets
